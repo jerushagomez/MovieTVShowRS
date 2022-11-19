@@ -1,2 +1,4 @@
-# MovieTVShowRS
- Movie and TV Shows Recommendation System using NLP
+# Movie and TV Show Recommendation
+
+ Movie and TV Shows Recommendation System built using NLP. 
+ 
